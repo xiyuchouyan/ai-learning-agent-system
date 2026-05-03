@@ -1,4 +1,3 @@
-# ai-learning-agent-system
 # AI Learning Agent System
 
 A lightweight AI-powered learning workflow system designed to enhance knowledge acquisition, structuring, and retrieval efficiency.
